@@ -16,8 +16,8 @@ timezone: Asia/Ho_Chi_Minh
 
 title: HIEU # the main title
 
-tagline: Ai cũng phải bắt đầu từ đâu đó
-  Everyone has to start somewhere. # it will display as the subtitle
+tagline: "Ai cũng phải bắt đầu từ đâu đó
+  Everyone has to start somewhere." # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
 
@@ -100,7 +100,6 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avatar.png
-  /assets/img/favicons/
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
